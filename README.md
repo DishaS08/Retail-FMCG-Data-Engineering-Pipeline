@@ -1,7 +1,7 @@
 # Retail FMCG Data Engineering Pipeline
 
 ## Project Overview
-This project implements an end-to-end data engineering pipeline for a retail FMCG company. It processes sales, customer, and product data to provide actionable insights through a dashboard.
+This project implements an end-to-end data engineering pipeline for a retail FMCG company. It processes sales, customer, and product data to provide actionable insights.
 
 ## Architecture
 The project follows the **Medallion Architecture** using **Databricks** and **Unity Catalog**:
